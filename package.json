@@ -1,0 +1,27 @@
+{
+  "name": "cs-648-assignment-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrirajSDSU/CS-648-Assignment-5.git"
+  },
+  "author": "Shriraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrirajSDSU/CS-648-Assignment-5/issues"
+  },
+  "homepage": "https://github.com/ShrirajSDSU/CS-648-Assignment-5#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.42.1"
+  }
+}
